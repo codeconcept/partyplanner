@@ -1,1 +1,1 @@
-console.log('coucou !!');
+console.log('with live reload server and html-webpack-plugin :)');
